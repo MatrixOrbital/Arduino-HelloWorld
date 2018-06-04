@@ -12,3 +12,5 @@ The blocks for this program are:
 What you fill see on the screen on start
 Hello World! ASCII: X
 The ASCII is showing the ASCII/FONT table of the display starting at 0x30 which is ASCII “0”
+
+![Screenshot] (Arduino-HelloWorld.jpg)
