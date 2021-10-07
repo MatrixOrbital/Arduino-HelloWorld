@@ -10,7 +10,9 @@ The blocks for this program are:
 4.	Main Loop of the program
 
 What you fill see on the screen on start
-Hello World!
-The ASCII is showing the ASCII/FONT table of the display starting at 0x30 which is ASCII “0”
+
+Line 1: Hello World!
+
+Line 2: The ASCII/FONT table of the display starting at 0x30 which is ASCII “0” to 0xFC
 
 <img src=Arduino-HelloWorld-800.jpg></img>
