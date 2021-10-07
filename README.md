@@ -5,7 +5,7 @@ This is a very fast simple example getting an Arduino Uno displaying on a Matrix
 
 <img src=WireDiagram.png></img>
 
-For an Arduino UNO to Display:
+Connect an Arduino UNO to a Display:
 1. Connect PIN 5V to PIN 1 VIN
 2. Connect PIN 4 to PIN 2 SCL
 3. Connect PIN 5 to PIN 3 SDA 
