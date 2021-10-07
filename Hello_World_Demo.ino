@@ -8,11 +8,11 @@
 //https://www.lcdforums.com/forums/viewforum.php?f=1
 //
 //-------------------------------------------------------------
-//For an Arduino UNO to Display:
+//Connect an Arduino UNO to a Matrix Orbital I2C Display:
 //Connect PIN 5V to PIN 1 VIN
 //Connect PIN 4 to PIN 2 SCL
 //Connect PIN 5 to PIN 3 SDA 
-//Connect PIN GND to PIN4 GND
+//Connect PIN GND to PIN 4 GND
 //
 //On power up, you should see "Matrix Orbital" on the display
 //--------------------------------------------------------------
