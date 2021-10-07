@@ -20,7 +20,7 @@ The blocks for this program are:
 3.	Start of the program
 4.	Main Loop of the program
 
-What you fill see on the screen on start
+What you will see on the screen on start:
 
 Line 1: Hello World!
 
