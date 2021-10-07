@@ -1,6 +1,8 @@
 # Arduino-HelloWorld
 A very quick Hello World demo with an ASCII counter on an Arduino
 
+https://www.matrixorbital.com/communication-protocol/i2c
+
 This is a very fast simple example getting an Arduino Uno displaying on a Matrix Orbital I2C Display. 
 
 <img src=WireDiagram.png></img>
