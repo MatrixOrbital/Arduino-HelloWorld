@@ -17,8 +17,6 @@ Line 2: The ASCII/FONT table of the display starting at 0x30 which is ASCII “0
 
 <img src=Arduino-HelloWorld-800.jpg></img>
 
-WEB
-https://www.matrixorbital.com
+WEB https://www.matrixorbital.com
 
-SUPPORT
-https://www.lcdforums.com/forums/viewforum.php?f=1
+SUPPORT https://www.lcdforums.com/forums/viewforum.php?f=1
