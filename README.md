@@ -1,7 +1,7 @@
 # Arduino-HelloWorld
-A very quick Hello World demo with an ASCII counter withan Arduino
+A very quick Hello World demo with an ASCII counter with an Arduino
 
-This is a very fast simple example getting an Arduino Uno displays on a Matrix Orbital I2C LCD. 
+This is a very fast simple example getting an Arduino Uno displaying on a Matrix Orbital I2C Display. 
 
 The blocks for this program are:
 1.	Arduino Configuration
