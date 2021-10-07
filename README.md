@@ -1,5 +1,5 @@
 # Arduino-HelloWorld
-A very quick Hello World demo with an ASCII counter with an Arduino
+A very quick Hello World demo with an ASCII counter on an Arduino
 
 This is a very fast simple example getting an Arduino Uno displaying on a Matrix Orbital I2C Display. 
 
