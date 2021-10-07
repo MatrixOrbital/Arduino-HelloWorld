@@ -3,6 +3,8 @@ A very quick Hello World demo with an ASCII counter with an Arduino
 
 This is a very fast simple example getting an Arduino Uno displaying on a Matrix Orbital I2C Display. 
 
+<img src=WireDiagram.png></img>
+
 The blocks for this program are:
 1.	Arduino Configuration
 2.	Display Configuration
